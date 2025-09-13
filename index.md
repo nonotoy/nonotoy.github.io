@@ -7,36 +7,36 @@ title: Yoshifumi Hanada
 Yoshifumi HANADA
 
 ## 🤔 interest
-Sociolinguistics / Sociology of language  
-- Language revitalisation
-- Linguistic rights
-- Multilingualism
-- Code switching
+sociolinguistics / sociology of language  
+- language revitalisation
+- linguistic rights
+- multilingualism / plurilingualism
+- code switching
 
-Linguistics  
-- Polysynthesis
-- Incorporation
+linguistics  
+- polysynthesis
+- incorporation
 
-Natural Language Processing  
+natural language processing  
 - Corpus augmentation
 - PEFTs
 
 ## 📚 education
 2022.04 - 2025.03  
-[Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html){:target="_blank"} (Tokyo, Japan)  
+[Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html) (Tokyo, Japan)  
 MSc in Informatics
 
 2011.03 - 2012.02  
-[Technische Universität Berlin](https://www.tu.berlin/){:target="_blank"} (Berlin, Germany)  
+[Technische Universität Berlin](https://www.tu.berlin/) (Berlin, Germany)  
 Austauschsemester SS 2011 SS & WS 2011/12
 
 2009.04 - 2013.03  
-[Sophia University](https://www.sophia.ac.jp/jpn/){:target="_blank"} (Tokyo, Japan)  
+[Sophia University](https://www.sophia.ac.jp/jpn/) (Tokyo, Japan)  
 BA in Foreign Studies
 
 ## 💼 work experience
 2024.11 - current  
-[Elyza Inc.](https://elyza.ai/){:target="_blank"} (Tokyo, Japan)
+[Elyza Inc.](https://elyza.ai/) (Tokyo, Japan)
 
 2016.08 - 2024.09  
 PwC Tax Japan (Tokyo, Japan)
