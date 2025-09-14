@@ -18,7 +18,7 @@ linguistics
 - incorporation
 
 natural language processing  
-- Corpus augmentation
+- corpus augmentation
 - PEFTs
 
 ## 📚 education
