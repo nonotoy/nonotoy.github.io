@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yoshifumi Hanada
+title: Home
 ---
 
 ## 👨‍💻 profile
@@ -38,7 +38,7 @@ BA in Foreign Studies
 2024.11 - current  
 [Elyza Inc.](https://elyza.ai/) (Tokyo, Japan)
 
-2016.08 - 2024.09  
+2016.08 - 2024.10  
 PwC Tax Japan (Tokyo, Japan)
 
 2013.04 - 2016.07  
@@ -52,7 +52,7 @@ NGK Spark Plug Co., Ltd. (Nagoya, Japan)
 - deu: intermediate (b2)
 - cmn: intermediate (b1)
 - kor: elementary (a2)
-- spa: elementary (a1)
+- spa: elementary (a2)
 - cat: elementary (a1)
 
 💻 programming languages:
