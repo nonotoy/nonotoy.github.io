@@ -1,6 +1,7 @@
 ---
 layout: default
-title: /publications
+title: publications
+permalink: /publications
 ---
 
 ## japanese (domestic) conference
