@@ -40,43 +40,43 @@
     --z-dropdown: 200;
     --z-modal: 1000;
     
-    /* Pine Forest Theme Colors - Light Mode */
-    --background-color: #F5F7F3; /* Light pine needle mist */
-    --heading-color: #1A3025; /* Deep forest green */
-    --text-color: #0F2018; /* Dark pine shadow */
-    --link-color: #2D5016; /* Forest moss */
-    --visited-color: #1E3A11; /* Deep woodland */
-    --main-color: #4A7C59; /* Pine needle green */
-    --code-background-color: #E8EDEA; /* Frosted pine */
-    --code-color: #1A3025; /* Deep forest green */
-    --blockquote-color: #7A9B85; /* Sage green */
-    
+    /* Grayscale Theme Colors - Light Mode */
+    --background-color: #E8E8E8; /* Light gray */
+    --heading-color: #1A1A1A; /* Almost black */
+    --text-color: #2A2A2A; /* Dark gray */
+    --link-color: #3A3A3A; /* Medium dark gray */
+    --visited-color: #505050; /* Medium gray */
+    --main-color: #6A6A6A; /* Medium gray */
+    --code-background-color: #D8D8D8; /* Light gray */
+    --code-color: #1A1A1A; /* Almost black */
+    --blockquote-color: #8A8A8A; /* Light medium gray */
+
     /* Interactive colors derived from theme */
     --hover-color: white;
     --border-color: var(--blockquote-color);
     --shadow-color: rgba(0, 0, 0, 0.18);
-    
+
     /* Glow effects for interactive elements */
-    --glow-color-light: rgba(45, 80, 22, 0.3);
-    --glow-color-medium: rgba(45, 80, 22, 0.5);
+    --glow-color-light: rgba(58, 58, 58, 0.3);
+    --glow-color-medium: rgba(58, 58, 58, 0.5);
 }
 
 /* Dark Mode Color Overrides */
 @media (prefers-color-scheme: dark) {
     :root {
-        --background-color: #0D1B12; /* Dark pine shadow */
-        --heading-color: #C8D8CE; /* Light pine mist */
-        --text-color: #E0EADE; /* Pale forest light */
-        --link-color: #7AB069; /* Bright moss green */
-        --visited-color: #9BC490; /* Light woodland */
-        --main-color: #8BB899; /* Soft pine green */
-        --code-background-color: #1A2B1F; /* Dark evergreen */
-        --code-color: #C8D8CE; /* Light pine mist */
-        --blockquote-color: #4A6B52; /* Forest undergrowth */
-        
+        --background-color: #1A1A1A; /* Dark gray */
+        --heading-color: #E8E8E8; /* Light gray */
+        --text-color: #D0D0D0; /* Light medium gray */
+        --link-color: #B8B8B8; /* Medium light gray */
+        --visited-color: #A0A0A0; /* Medium gray */
+        --main-color: #888888; /* Medium gray */
+        --code-background-color: #2A2A2A; /* Dark medium gray */
+        --code-color: #E8E8E8; /* Light gray */
+        --blockquote-color: #6A6A6A; /* Medium dark gray */
+
         /* Dark mode glow effects */
-        --glow-color-light: rgba(122, 176, 105, 0.3);
-        --glow-color-medium: rgba(122, 176, 105, 0.5);
+        --glow-color-light: rgba(184, 184, 184, 0.3);
+        --glow-color-medium: rgba(184, 184, 184, 0.5);
     }
 }
 
