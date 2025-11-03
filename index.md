@@ -3,25 +3,25 @@ layout: default
 title: Home
 ---
 
-## 👨‍💻 profile
+## 👨‍💻 Profile
 Yoshifumi HANADA
 
-## 🤔 interest
-sociolinguistics / sociology of language  
+## 🤔 Interest
+Natural language processing for XLR (extremely low-resource) languages
+- corpus augmentation
+- PEFTs
+
+Linguistics  
+- polysynthesis / incorporation
+- morphology
+
+Sociolinguistics / Sociology of language  
 - language revitalisation
 - linguistic rights
 - multilingualism / plurilingualism
 - code switching
 
-linguistics  
-- polysynthesis
-- incorporation
-
-natural language processing  
-- corpus augmentation
-- PEFTs
-
-## 📚 education
+## 📚 Education
 2022.04 - 2025.03  
 [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html) (Tokyo, Japan)  
 MSc in Informatics
@@ -34,18 +34,8 @@ Austauschsemester SS 2011 SS & WS 2011/12
 [Sophia University](https://www.sophia.ac.jp/jpn/) (Tokyo, Japan)  
 BA in Foreign Studies
 
-## 💼 work experience
-2024.11 - current  
-[Elyza Inc.](https://elyza.ai/) (Tokyo, Japan)
-
-2016.08 - 2024.10  
-PwC Tax Japan (Tokyo, Japan)
-
-2013.04 - 2016.07  
-NGK Spark Plug Co., Ltd. (Nagoya, Japan)
-
-## 🔧 skills
-🌏 languages:
+## 🔧 Skills
+🌏 Languages:
 - jpn: native
 - eng: advanced (c1)
 - ain: intermediate (15+ years of study)
@@ -55,7 +45,7 @@ NGK Spark Plug Co., Ltd. (Nagoya, Japan)
 - spa: elementary (a2)
 - cat: elementary (a1)
 
-💻 programming languages:
+💻 Programming languages:
 - python: intermediate
 - sql: basic
 - javascript: basic
