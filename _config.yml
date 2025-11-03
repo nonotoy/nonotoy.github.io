@@ -58,6 +58,13 @@ exclude:
 Blog: /blog
 Publications: /publications
 
+# Multi-language support
+languages: ["en", "ja"]
+default_lang: en
+lang_names:
+  en: "English"
+  ja: "日本語"
+
 # Add general links to site pages here
 links:
   # Resume: /assets/resume.pdf
