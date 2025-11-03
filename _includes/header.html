@@ -6,7 +6,7 @@
     <nav>
         <p>
             <a href="{{ site.url }}">home</a> 
-            <a href="{{ site.publications }}">publications</a>
+            <a href="{{ site.publications }}{{ site.publications }}">publications</a>
         
             {% for link in site.links %}
                 <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
