@@ -158,25 +158,8 @@ header {
     border-bottom: 3px dotted var(--main-color);
 }
 
-nav p {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-}
-
 nav a {
     margin-right: 8px;
-}
-
-/* Language toggle - prevent external link arrow and positioned at the right */
-#lang-toggle {
-    margin-left: auto;
-    margin-right: 0;
-}
-
-#lang-toggle::after {
-    content: none !important;
 }
 
 main {
