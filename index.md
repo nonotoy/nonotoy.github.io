@@ -28,7 +28,7 @@ Sociology of language
 ## 📚 Education
 2026.04 - current  
 [University of Tokyo - Graduate School of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html) (Tokyo, Japan)  
-eol
+ 
 2022.04 - 2025.03  
 [Japan Advanced Institute of Science and Technology - Graduate School of Advanced Science and Technology](https://www.jaist.ac.jp/index.html) (Tokyo, Japan)  
 MSc in Informatics
