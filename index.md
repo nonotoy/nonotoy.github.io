@@ -37,8 +37,7 @@ MSc in Informatics
 
 2011.03 - 2012.02  
 [Technische Universität Berlin | Fakultät I Geistes- und Bildungswissenschaften](https://www.tu.berlin/) (Berlin, Germany)  
-- Austauschsemester SS 2011 & WS 2011/12  
-- Nebenhörer an der HU Berlin & FU Berlin  
+Austauschsemester SS 2011 & WS 2011/12  
 
 2009.04 - 2013.03  
 [Sophia University | Faculty of Foreign Studies](https://www.sophia.ac.jp/jpn/) (Tokyo, Japan)  
