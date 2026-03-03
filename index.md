@@ -10,6 +10,7 @@ Yoshifumi HANADA
 
 ## 🤔 Interest
 Natural language processing for XLR (extremely low-resource) languages
+- machine translation
 - corpus augmentation
 - tokenization
 - PEFTs
@@ -27,18 +28,20 @@ Sociology of language
 
 ## 📚 Education
 2026.04 - current  
-[University of Tokyo - Graduate School of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html) (Tokyo, Japan)  
- 
+[University of Tokyo | Grad. Sch. of Arts and Sciences | Language and Information Sciences](https://gamp.c.u-tokyo.ac.jp/index.html) (Tokyo, Japan)  
+
+
 2022.04 - 2025.03  
-[Japan Advanced Institute of Science and Technology - Graduate School of Advanced Science and Technology](https://www.jaist.ac.jp/index.html) (Tokyo, Japan)  
+[Japan Advanced Institute of Science and Technology | Grad. Sch. of Advanced Science and Technology](https://www.jaist.ac.jp/index.html) (Tokyo, Japan)  
 MSc in Informatics
 
 2011.03 - 2012.02  
-[Technische Universität Berlin - Fakultät I - Geistes- und Bildungswissenschaften](https://www.tu.berlin/) (Berlin, Germany)  
-Austauschsemester SS 2011 & WS 2011/12
+[Technische Universität Berlin | Fakultät I Geistes- und Bildungswissenschaften](https://www.tu.berlin/) (Berlin, Germany)  
+- Austauschsemester SS 2011 & WS 2011/12  
+- Nebenhörer an der HU Berlin & FU Berlin
 
 2009.04 - 2013.03  
-[Sophia University - Faculty of Foreign Studies](https://www.sophia.ac.jp/jpn/) (Tokyo, Japan)  
+[Sophia University | Faculty of Foreign Studies](https://www.sophia.ac.jp/jpn/) (Tokyo, Japan)  
 BA in Foreign Studies
 
 ## 📚 Work
