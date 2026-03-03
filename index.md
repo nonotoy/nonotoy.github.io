@@ -9,7 +9,7 @@ permalink: /
 Yoshifumi HANADA
 
 ## 🤔 Interest
-Natural language processing for XLR (extremely low-resource) languages
+Natural language processing for digitally marginalised languages
 - machine translation
 - corpus augmentation
 - tokenization
