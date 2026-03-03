@@ -38,18 +38,18 @@ MSc in Informatics
 2011.03 - 2012.02  
 [Technische Universität Berlin | Fakultät I Geistes- und Bildungswissenschaften](https://www.tu.berlin/) (Berlin, Germany)  
 - Austauschsemester SS 2011 & WS 2011/12  
-- Nebenhörer an der HU Berlin & FU Berlin
+- Nebenhörer an der HU Berlin & FU Berlin  
 
 2009.04 - 2013.03  
 [Sophia University | Faculty of Foreign Studies](https://www.sophia.ac.jp/jpn/) (Tokyo, Japan)  
-BA in Foreign Studies
+BA in Foreign Studies  
 
 ## 📚 Work
-2024.11 - current
-[Elyza. Inc](https://elyza.ai/) (Tokyo, Japan)
+2024.11 - current  
+[Elyza. Inc](https://elyza.ai/) (Tokyo, Japan)  
 
-2013.04 - 2024.10
-Worked for several companies, serving HR and Digital Transformation Team Mgr.
+2013.04 - 2024.10  
+Worked for several companies, serving HR and Digital Transformation Team Mgr.  
 
 
 ## 🔧 Skills
