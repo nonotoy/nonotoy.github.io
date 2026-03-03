@@ -4,15 +4,15 @@ layout: compress
 
 {% include head.html %}
 
-    <main>
+    {% include header.html %}
 
-        {% include header.html %}
-
+    <div class="container content">
         {{ content }}
-
-    </main>
-
-    {% include footer.html %}
+        <hr />
+        <p style="text-align: center; margin-bottom: 10px">
+        <a href="https://github.com/ankitsultana/researcher" style="color: black"><small>Page design by Ankit Sultana</small></a>
+        </p>
+    </div>
 
 </body>
 </html>

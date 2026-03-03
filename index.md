@@ -27,21 +27,13 @@ Sociology of language
 - code switching
 
 ## 📚 Education
-2026.04 - current  
-[University of Tokyo | Grad. Sch. of Arts and Sciences | Language and Information Sciences](https://gamp.c.u-tokyo.ac.jp/index.html) (Tokyo, Japan)  
 
-
-2022.04 - 2025.03  
-[Japan Advanced Institute of Science and Technology | Grad. Sch. of Advanced Science and Technology](https://www.jaist.ac.jp/index.html) (Tokyo, Japan)  
-MSc in Informatics
-
-2011.03 - 2012.02  
-[Technische Universität Berlin | Fakultät I Geistes- und Bildungswissenschaften](https://www.tu.berlin/) (Berlin, Germany)  
-Austauschsemester SS 2011 & WS 2011/12  
-
-2009.04 - 2013.03  
-[Sophia University | Faculty of Foreign Studies](https://www.sophia.ac.jp/jpn/) (Tokyo, Japan)  
-BA in Foreign Studies  
+| Period | Institution | Programme |
+|--------|-------------|-----------|
+| 2026.04 - current | [University of Tokyo](https://gamp.c.u-tokyo.ac.jp/index.html) - Grad. Sch. of Arts and Sciences - Language and Information Sciences (Tokyo, Japan) | |
+| 2022.04 - 2025.03 | [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html) - Grad. Sch. of Advanced Science and Technology (Tokyo, Japan) | MSc in Informatics |
+| 2011.03 - 2012.02 | [Technische Universität Berlin](https://www.tu.berlin/) - Fakultät I Geistes- und Bildungswissenschaften (Berlin, Germany) | Austauschsemester SS 2011 & WS 2011/12 |
+| 2009.04 - 2013.03 | [Sophia University](https://www.sophia.ac.jp/jpn/) - Faculty of Foreign Studies (Tokyo, Japan) | BA in Foreign Studies |  
 
 ## 📚 Work
 2024.11 - current  

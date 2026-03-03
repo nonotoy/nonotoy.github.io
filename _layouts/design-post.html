@@ -4,9 +4,9 @@ layout: compress
 
 {% include head.html %}
 
-<main>
+{% include header.html %}
 
-    {% include header.html %}
+<div class="container content">
 
     <h1>{{ page.title }}</h1>
     <i>{{ page.date | date: "%b %d, %Y" }}</i>
@@ -14,9 +14,12 @@ layout: compress
 
     {{ page.content }}
 
-</main>
+    <hr />
+    <p style="text-align: center; margin-bottom: 10px">
+    <a href="https://github.com/ankitsultana/researcher" style="color: black"><small>Page design by Ankit Sultana</small></a>
+    </p>
 
-{% include footer-post.html %}
+</div>
 
 </body>
 

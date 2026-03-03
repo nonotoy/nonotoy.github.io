@@ -4,16 +4,16 @@ layout: compress
 
 {% include head.html %}
 
-<main>
+{% include header.html %}
 
-    {% include header.html %}
+<div class="container content">
 
     {{ content }}
 
     {% if site.tags[page.slug] %}
     <p>
         Here be writings, tagged as <b>"{{ page.slug }}"</b>.<br>
-        <small><a href="{{ site.baseurl }}{{ site.Blog }}">Remove filter</a></small>
+        <small><a href="{{ site.baseurl }}/blog">Remove filter</a></small>
     </p>
 
     <ul class="blog-posts">
@@ -46,9 +46,12 @@ layout: compress
     </p>
     {% endif %}
 
-</main>
+    <hr />
+    <p style="text-align: center; margin-bottom: 10px">
+    <a href="https://github.com/ankitsultana/researcher" style="color: black"><small>Page design by Ankit Sultana</small></a>
+    </p>
 
-{% include footer.html %}
+</div>
 
 </body>
 
