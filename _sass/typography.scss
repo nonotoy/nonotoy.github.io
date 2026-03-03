@@ -1,6 +1,9 @@
 @import "vars";
 
 .content {
+    p {
+        margin-bottom: 1em;
+    }
     a:hover {
         text-decoration: underline;
     }
