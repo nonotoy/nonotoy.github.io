@@ -62,9 +62,9 @@ Worked for several companies, serving HR and Digital Transformation Team Mgr.
 | Language | Level |
 |----------|-------|
 | python | intermediate |
-| sql | basic |
-| javascript | basic |
-| svelte | keen interest |
+| sql | basic | 
+| javascript | basic |  
+| svelte | keen interest | PdD |
 
 ## Link
 [Researchmap](https://researchmap.jp/yhanada)
