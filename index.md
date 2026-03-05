@@ -65,3 +65,6 @@ Worked for several companies, serving HR and Digital Transformation Team Mgr.
 | sql | basic |
 | javascript | basic |
 | svelte | keen interest |
+
+## Link
+[Researchmap](https://researchmap.jp/yhanada)
