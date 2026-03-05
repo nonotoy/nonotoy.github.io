@@ -4,6 +4,9 @@
     p {
         margin-bottom: 1em;
     }
+    *:lang(ja) {
+        font-size: 0.95em;
+    }
     a:hover {
         text-decoration: underline;
     }
