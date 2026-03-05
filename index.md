@@ -30,8 +30,8 @@ Sociology of language
 
 | Period | Institution | Degree |
 |--------|-------------|-----------|
-| Apr 2026 - current | [University of Tokyo - Grad. Sch. of Arts and Sciences](https://gamp.c.u-tokyo.ac.jp/index.html)  
-Language and Information Sciences | |
+| Apr 2026 - current | [University of Tokyo](https://gamp.c.u-tokyo.ac.jp/index.html)  
+Grad. Sch. of Arts and Sciences - Language and Information Sciences | |
 | Apr 2022 - Mar 2025 | [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html) | MSc in Informatics |
 | Mar 2011 - Feb 2012 | [Technische Universität Berlin](https://www.tu.berlin/)  
 Fakultät I Geistes- und Bildungswissenschaften | Austauschsemester SS 2011 & WS 2011/12 |
