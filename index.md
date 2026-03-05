@@ -47,21 +47,21 @@ Worked for several companies, serving HR and Digital Transformation Team Mgr.
 
 ### 🌏 Languages
 
-| Language | Level |
-|----------|-------|
-| jpn | native |
-| eng | advanced (c1) |
-| ain | intermediate (b2: 15+ years of study) |
-| deu | intermediate (b2) |
-| cmn | intermediate (b1) |
-| spa | elementary (a2) |
-| fra | elementary (a2) |
+| Language | Level | |
+|----------|-------|---|
+| jpn | native | |
+| eng | advanced (c1) | |
+| ain | intermediate (b2: 15+ years of study) | |
+| deu | intermediate (b2) | |
+| cmn | intermediate (b1) | |
+| spa | elementary (a2) | |
+| fra | elementary (a2) | |
 
 ### 💻 Programming languages
 
-| Language | Level |
-|----------|-------|
-| python | intermediate |
-| sql | basic |
-| javascript | basic |
-| svelte | keen interest |
+| Language | Level | |
+|----------|-------|---|
+| python | intermediate | |
+| sql | basic | |
+| javascript | basic | |
+| svelte | keen interest | |
