@@ -32,14 +32,14 @@ Sociology of language
 |--------|-------------|---------|
 | Apr 2026 - current | [University of Tokyo](https://gamp.c.u-tokyo.ac.jp/index.html)<br>Grad. Sch. of Arts and Sciences - Language and Information Sciences | |
 | Apr 2022 - Mar 2025 | [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html) | MSc in Informatics |
-| Mar 2011 - Feb 2012 | [Technische Universität Berlin](https://www.tu.berlin/)<br>Fakultät I Geistes- und Bildungswissenschaften | Austauschsemester SS 2011 & WS 2011/12 |
+| Mar 2011 - Feb 2012 | [Technische Universität Berlin](https://www.tu.berlin/)<br>Fakultät I - Geistes- und Bildungswissenschaften | Austauschsemester SS 2011 & WS 2011/12 |
 | Apr 2009 - Mar 2013 | [Sophia University](https://www.sophia.ac.jp/jpn/)<br>Faculty of Foreign Studies | BA in Foreign Studies |  
 
 ## 📚 Work
 Nov 2024 - current  
 [Elyza. Inc](https://elyza.ai/) (Tokyo, Japan)  
 
-Apr 2013 - Oct 2024.10  
+Apr 2013 - Oct 2024  
 Worked for several companies, serving HR and Digital Transformation Team Mgr.  
 
 
@@ -64,7 +64,7 @@ Worked for several companies, serving HR and Digital Transformation Team Mgr.
 | python | intermediate |
 | sql | basic | 
 | javascript | basic |  
-| svelte | keen interest | PdD |
+| svelte | keen interest |
 
 ## Link
 [Researchmap](https://researchmap.jp/yhanada)
