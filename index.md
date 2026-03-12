@@ -5,9 +5,6 @@ lang: en
 permalink: /
 ---
 
-## 👨‍💻 Profile
-Yoshifumi HANADA
-
 ## 🤔 Interest
 Natural language processing for digitally marginalised languages
 - machine translation
