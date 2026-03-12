@@ -43,5 +43,5 @@ Apr 2013 - Oct 2024
 Worked for several companies, serving HR and Digital Transformation Team Mgr.  
 
 ## Link
-[![LinkedIn](assets/LI-In-Bug.png)](https://www.linkedin.com/in/yoshifumi-hanada/)
+<a href="https://www.linkedin.com/in/yoshifumi-hanada/"><img src="assets/LI-In-Bug.png" alt="LinkedIn"></a>
 [Researchmap](https://researchmap.jp/yhanada)

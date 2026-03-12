@@ -190,6 +190,11 @@ img {
     max-width: 100%;
 }
 
+a img {
+    height: 1em;
+    vertical-align: middle;
+}
+
 blockquote {
     border-left: 1px solid var(--blockquote-color);
     color: var(--code-color);
