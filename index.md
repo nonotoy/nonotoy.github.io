@@ -7,14 +7,22 @@ permalink: /
 
 I am a researcher interested in natural language processing for polysynthetic and digitally marginalised languages, with a focus on language revitalisation.
 
-## 📚 Education
+## 📚 Education  
+Apr 2026 - current  
+University of Tokyo  
+Doctoral programme in Language and Information Sciences  
 
-| Period | Institution | Degree |
-|--------|-------------|---------|
-| Apr 2026 - current | University of Tokyo<br>Grad. Sch. of Arts and Sciences - Language and Information Sciences | |
-| Apr 2022 - Mar 2025 | Japan Advanced Institute of Science and Technology | MSc in Informatics |
-| Mar 2011 - Feb 2012 | Technische Universität Berlin<br>Fakultät I - Geistes- und Bildungswissenschaften | Austauschsemester SS 2011 & WS 2011/12 |
-| Apr 2009 - Mar 2013 | Sophia University<br>Faculty of Foreign Studies | BA in Foreign Studies |  
+Apr 2022 - Mar 2025  
+Japan Advanced Institute of Science and Technology  
+MSc in Informatics  
+
+Apr 2009 - Mar 2013  
+Sophia University  
+BA in Foreign Studies  
+
+Mar 2011 - Feb 2012  
+Technische Universität Berlin  
+Austauschsemester SS 2011 & WS 2011/12
 
 ## 📚 Work
 Nov 2024 - current  
