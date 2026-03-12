@@ -60,10 +60,6 @@ sass:
     sass_dir: _sass
 
 nav:
-  - name: "About"
-    link: "/"
-  - name: "Publications"
-    link: "/publications"
 
 # Multi-language support
 languages: ["en", "ja"]
