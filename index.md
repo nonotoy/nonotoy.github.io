@@ -42,29 +42,6 @@ Nov 2024 - current
 Apr 2013 - Oct 2024  
 Worked for several companies, serving HR and Digital Transformation Team Mgr.  
 
-
-## 🔧 Skills
-
-### 🌏 Languages
-
-| Language | Level |
-|----------|-------|
-| jpn | native |
-| eng | advanced (c1) |
-| ain | intermediate (b2: 15+ years of study) |
-| deu | intermediate (b2) |
-| cmn | intermediate (b1) |
-| spa | elementary (a2) |
-| fra | elementary (a2) |
-
-### 💻 Programming languages
-
-| Language | Level |
-|----------|-------|
-| python | intermediate |
-| sql | basic | 
-| javascript | basic |  
-| svelte | keen interest |
-
 ## Link
+[![LinkedIn](assets/LI-In-Bug.png)](https://www.linkedin.com/in/yoshifumi-hanada/)
 [Researchmap](https://researchmap.jp/yhanada)
