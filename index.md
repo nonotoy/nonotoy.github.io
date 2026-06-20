@@ -11,17 +11,16 @@ I am a PhD researcher interested in natural language processing for polysyntheti
 **Apr 2026 - current**  
 [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)  
 [School of Arts and Sciences](https://www.c.u-tokyo.ac.jp/)  
-[Language and Information Sciences](https://gamp.c.u-tokyo.ac.jp/index.html)  
+[Division of Language and Information Sciences](https://gamp.c.u-tokyo.ac.jp/index.html)  
 
 **Apr 2022 - Mar 2025**  
 Japan Advanced Institute of Science and Technology  
-School of Information Science
-Div. of Advanced Institute of Science and Technology  
-MSc in Information Science
+School of Information Science  
+**Degree:** MSc in Information Science
 
 **Apr 2009 - Mar 2013**  
 Sophia University  
-BA in Foreign Studies  
+**Degree:** BA in Foreign Studies  
 
 **Mar 2011 - Feb 2012**  
 Technische Universität Berlin  
