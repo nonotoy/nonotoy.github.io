@@ -5,16 +5,19 @@ lang: en
 permalink: /
 ---
 
-I am a PhD researcher interested in natural language processing for polysynthetic and digitally marginalised languages, with a focus on language revitalisation.
+I am a PhD researcher interested in natural language processing for polysynthetic and/or digitally marginalised languages, with a focus on language revitalisation.
 
 ## 📚 Education  
 **Apr 2026 - current**  
-University of Tokyo  
-Doctoral programme in Language and Information Sciences  
+[University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)  
+[School of Arts and Sciences](https://www.c.u-tokyo.ac.jp/)  
+[Language and Information Sciences](https://gamp.c.u-tokyo.ac.jp/index.html)  
 
 **Apr 2022 - Mar 2025**  
 Japan Advanced Institute of Science and Technology  
-MSc in Informatics  
+School of Information Science
+Div. of Advanced Institute of Science and Technology  
+MSc in Information Science
 
 **Apr 2009 - Mar 2013**  
 Sophia University  
@@ -22,16 +25,22 @@ BA in Foreign Studies
 
 **Mar 2011 - Feb 2012**  
 Technische Universität Berlin  
-Austauschsemester SS 2011 & WS 2011/12
+Austauschsemester SS 2011 & WS 2011/12  
 
-## 📚 Work
+## 🏢 Work
 **Nov 2024 - current**  
 [Elyza. Inc](https://elyza.ai/) (Tokyo, Japan)  
 
-**Apr 2013 - Oct 2024**  
-Worked for several companies, serving HR and Digital Transformation Team Mgr.
+**Jul 2019 - Oct 2024**  
+[PwC Tax Japan](https://www.pwc.com/jp/en/services/tax.html) (Tokyo, Japan)  
 
-## 📚 Publication
+**Aug 2016 - Jun 2019**  
+PwC Outsourcing Services LLC (Tokyo, Japan)  
+
+**Apr 2013 - Jul 2016**  
+NGK Spark Plug Co., Ltd. (Nagoya, Japan)  
+
+## 📃 Publication
 ### Conference (Non-peer-reviewed)
 
 花田 佳文, 吉高 淳夫. (2024) 手掌長導入による日本手話指文字の判別モデルの性能向上の検討 [paper](https://ipsj.ixsq.nii.ac.jp/records/234448)
