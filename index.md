@@ -5,7 +5,17 @@ lang: en
 permalink: /
 ---
 
-I am a PhD researcher interested in natural language processing for polysynthetic and/or digitally marginalised languages, with a focus on language revitalisation.
+I am a PhD researcher interested in natural language processing for Ainu language, with a focus on language revitalisation.
+
+## 📚 Research Interests
+- Ainu language x Natural language processing
+  - Speech synthesis
+  - Machine translation
+  - Tokenisation
+- Sociology on languages
+  - Digital capital
+  - Language revitalisation
+
 
 ## 📚 Education  
 **Apr 2026 - current**  
@@ -28,10 +38,10 @@ Austauschsemester SS 2011 & WS 2011/12
 
 ## 🏢 Work
 **Nov 2024 - current**  
-[Elyza. Inc](https://elyza.ai/) (Tokyo, Japan)  
+Elyza. Inc (Tokyo, Japan)  
 
 **Jul 2019 - Oct 2024**  
-[PwC Tax Japan](https://www.pwc.com/jp/en/services/tax.html) (Tokyo, Japan)  
+PwC Tax Japan (Tokyo, Japan)  
 
 **Aug 2016 - Jun 2019**  
 PwC Outsourcing Services LLC (Tokyo, Japan)  
