@@ -57,3 +57,11 @@ NGK Spark Plug Co., Ltd. (Nagoya, Japan)
 ### Thesis
 
 花田 佳文. (2025) 原言語と目標言語の反復的データ拡張に基づく低資源言語のニューラル機械翻訳 [paper](https://dspace02.jaist.ac.jp/dspace/handle/10119/19839)
+
+## 📚 Languages
+- Japanese: native
+- English: C1
+- German: B2
+- Ainu: B1-B2
+- Taiwanese Mandarin: B1
+- Spanish: A2
