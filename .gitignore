@@ -1,7 +1,8 @@
-_posts/
-_my_tags/
 _data/
+_my_tags/
+_posts/
+.claude
 .DS_Store
-status.md
 history.md
+status.md
 wip.md
