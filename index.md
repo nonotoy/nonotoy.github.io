@@ -5,7 +5,7 @@ lang: en
 permalink: /
 ---
 
-I am a PhD researcher interested in natural language processing for Ainu language, with a focus on language revitalisation.
+I am a PhD researcher interested in natural language processing for the Ainu language, with a focus on language revitalisation.
 
 ## 📚 Research Interests
 - Ainu language x Natural language processing
@@ -51,6 +51,8 @@ NGK Spark Plug Co., Ltd. (Nagoya, Japan)
 
 ## 📃 Publication
 ### Conference (Non-peer-reviewed)
+
+花田 佳文, 中田 琉稀, 林 克彦. (incoming) 手掌長導入による日本手話指文字の判別モデルの性能向上の検討 [paper](/)
 
 花田 佳文, 吉高 淳夫. (2024) 手掌長導入による日本手話指文字の判別モデルの性能向上の検討 [paper](https://ipsj.ixsq.nii.ac.jp/records/234448)
 
