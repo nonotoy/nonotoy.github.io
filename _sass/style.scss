@@ -1,137 +1,166 @@
-@import "vars";
-
 /*
- * Basic
+ * nonotoy.github.io — minimal one-column academic template
  */
 
+$accent: #2563eb;
+$text: #1f2328;
+$muted: #6b7280;
+$border: #e5e7eb;
+$max-width: 700px;
+
+/* Base */
+
 html {
-    height: 100%;
-    margin: 0;
-    padding: 0;
+    -webkit-text-size-adjust: 100%;
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
-    height: 100%;
+    font-family: "Inter", "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: $text;
+    background: #ffffff;
 }
 a {
-    text-decoration: none;
     color: $accent;
+    text-decoration: none;
 }
 a:hover {
     text-decoration: underline;
 }
-hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+strong {
+    font-weight: 600;
 }
-
-/*
- * Navbar
- */
-
-#author-name {
-    font-size: 30px;
-    color: #272727;
-    display: inline-block;
-}
-.navbar {
-    padding: 50px 0 50px 0;
-}
-.navbar-ul {
-    display: inline-block;
-    margin: 0;
-    padding: 5px 0 5px 0;
-    margin-left: 20px;
-}
-.nav-list {
-    list-style-type: none;
-    margin: 0 5px 0 10px;
-}
-.alignable {
-    display: inline-block;
-}
-.pull-left {
-    @extend .alignable;
-    float: left;
-}
-.pull-right {
-    @extend .alignable;
-    float: right;
-}
-
-/* Divs */
 
 .container {
     max-width: $max-width;
-    margin: auto;
-}
-.wrapper {
-    min-height: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
-/* Institute Image */
+/* Header */
 
-#ins-logo {
-    margin: auto;
-    display: block;
-    max-height: 100px;
+.site-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    padding-top: 48px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid $border;
+}
+#author-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: $text;
+}
+#author-name:hover {
+    text-decoration: none;
+}
+.header-icons {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+.header-icons a {
+    display: inline-flex;
+    opacity: 0.85;
+}
+.header-icons a:hover {
+    opacity: 1;
+}
+
+/* Content */
+
+.content {
+    padding-top: 8px;
+    padding-bottom: 24px;
+}
+.content h2 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 2.4em 0 0.8em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $border;
+}
+.content h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: $muted;
+    margin: 1.6em 0 0.6em;
+}
+.content p {
+    margin: 0 0 1em;
+}
+.content ul {
+    padding-left: 1.4em;
+    margin: 0 0 1em;
+}
+.content li {
+    margin: 4px 0;
+}
+.content blockquote {
+    border-left: 3px solid $border;
+    margin: 20px 0;
+    padding: 2px 16px;
+    color: $muted;
+}
+.content img {
+    max-width: 100%;
+}
+.content table {
+    border-collapse: collapse;
+    margin: 0 0 1em;
+}
+.content th,
+.content td {
+    border: 1px solid $border;
+    padding: 6px 12px;
+}
+
+/* Section heading icons */
+
+.h-icon {
+    width: 0.9em;
+    height: 0.9em;
+    vertical-align: -0.08em;
+    margin-right: 0.3em;
+    color: $muted;
+}
+
+/* Inline flag icons */
+
+.li-flag {
+    list-style: none;
+    position: relative;
+}
+.li-flag .flag-icon {
+    position: absolute;
+    left: -1.7em;
+    top: 0.18em;
+    height: 1.15em;
+    width: 1.15em;
+}
+
+/* Footer */
+
+.site-footer {
+    padding-top: 16px;
+    padding-bottom: 40px;
+    border-top: 1px solid $border;
+    color: $muted;
+    font-size: 0.85rem;
     text-align: center;
 }
 
 /* Mobile */
 
-@media (max-width: 800px) {
-    .container {
-        max-width: $med-width;
-        transition: 0.3s ease all;
-    }
-}
-
-@media (max-width: 650px) {
-    .container {
-        max-width: 83%;
-    }
-    .navbar-ul {
-        margin-top: 5px;
-    }
-}
-
 @media (max-width: 500px) {
-    .navbar {
-        text-align: center;
-        padding: 50px 0px 0px 0px;
+    body {
+        font-size: 15px;
     }
-    #author-name {
-        width: 100%;
-        float: none;
-    }
-    .header-icons {
-        float: none;
-        width: 100%;
-        justify-content: center;
-        margin-top: 10px;
-    }
-    #navlist {
-        padding: 10px 0 10px 0;
-        margin: 0;
-        display: block;
-        float: none;
-        text-align: center;
-        width: 100%;
-    }
-    #navlist li.alignable {
-        display: inline-block;
-    }
-    #navlist li.pull-left {
-        float: none;
-    }
-    #navlist li.nav-list {
-        margin: 0;
+    .site-header {
+        padding-top: 32px;
     }
 }
-
-@import "typography";
-@import "tables";
