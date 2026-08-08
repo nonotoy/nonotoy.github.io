@@ -47,8 +47,9 @@ strong {
     flex-wrap: wrap;
     gap: 8px 16px;
     padding-top: 48px;
-    padding-bottom: 16px;
-    border-bottom: 1px solid $border;
+    padding-bottom: 26px;
+    background: url("/assets/ayus-divider.svg") no-repeat bottom 4px center;
+    background-size: calc(100% - 40px) auto;
 }
 #author-name {
     font-size: 1.5rem;
@@ -81,14 +82,24 @@ strong {
     font-size: 1.2rem;
     font-weight: 700;
     margin: 2.4em 0 0.8em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $border;
 }
-.content h2::before {
-    content: "";
-    display: block;
-    height: 22px;
-    margin-bottom: 1.2em;
-    background: url("/assets/ayus-divider.svg") repeat-x center / auto 22px;
-    opacity: 0.7;
+.content a.paper-badge {
+    display: inline-block;
+    padding: 1px 10px;
+    border-radius: 5px;
+    background: #2f7d4f;
+    color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.78rem;
+    line-height: 1.55;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+.content a.paper-badge:hover {
+    background: #26663f;
+    text-decoration: none;
 }
 .content h3 {
     font-size: 1rem;
@@ -152,9 +163,10 @@ strong {
 /* Footer */
 
 .site-footer {
-    padding-top: 16px;
-    padding-bottom: 40px;
-    border-top: 1px solid $border;
+    padding-top: 21px;
+    padding-bottom: 24px;
+    background: url("/assets/ayus-divider.svg") no-repeat top 2px center;
+    background-size: calc(100% - 40px) auto;
     color: $muted;
     font-size: 0.85rem;
     text-align: center;
