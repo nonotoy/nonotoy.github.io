@@ -57,13 +57,13 @@ Jun 2024.
 **花田 佳文**, 中田 琉稀, 林 克彦.  
 北海道アイヌ語に対する音声合成モデルの学習と評価.  
  <!-- (_Training and Evaluation of Speech Synthesis Models for Hokkaido Ainu_) -->
-第21回言語処理若手シンポジウム (YANS026).  
+第21回言語処理若手シンポジウム (YANS2026).  
 Aug 2026.  
 
 中田 琉稀, **花田 佳文**, 林 克彦.  
 複統合的言語 アイヌ語のサブワード分割 〜機械翻訳モデルに最適なトークナイザーとは〜.  
 <!-- (_Subword Segmentation for Ainu, a Polysynthetic Language: In Search of the Optimal Tokenizer for Machine Translation_)   -->
-第21回言語処理若手シンポジウム (YANS026).  
+第21回言語処理若手シンポジウム (YANS2026).  
 Aug 2026.  
 
 ### Theses
