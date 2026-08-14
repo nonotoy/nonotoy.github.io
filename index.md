@@ -21,7 +21,7 @@ I am a PhD researcher interested in natural language processing for the Ainu lan
 **Apr 2026 - current**  
 The University of Tokyo  
 Graduate School of Arts and Sciences  
-Division of Language and Information Sciences  
+Department of Language and Information Sciences  
 
 **Apr 2022 - Mar 2025**  
 Japan Advanced Institute of Science and Technology   
