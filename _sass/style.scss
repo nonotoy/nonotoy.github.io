@@ -113,6 +113,10 @@ strong {
 .content .award-badge {
     background: #a8791c;
 }
+.content a.award-badge:hover {
+    background: #8c6417;
+    text-decoration: none;
+}
 .content .badge-icon {
     width: 0.85em;
     height: 0.85em;

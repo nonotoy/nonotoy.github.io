@@ -56,7 +56,7 @@ Austauschsemester SS 2011 & WS 2011/12
 北海道アイヌ語に対する音声合成モデルの学習と評価.  
  <!-- (_Training and Evaluation of Speech Synthesis Models for Hokkaido Ainu_) -->
 第21回言語処理若手シンポジウム (YANS2026). Aug 2026.  
-[{% include icons/badge-poster.svg %}poster](/assets/posters/yans2026_hanada_poster.pdf){: .poster-badge} <span class="award-badge">{% include icons/badge-award.svg %}奨励賞</span> <span class="award-badge">{% include icons/badge-award.svg %}デモ賞</span>  
+[{% include icons/badge-poster.svg %}poster](/assets/posters/yans2026_hanada_poster.pdf){: .poster-badge} [{% include icons/badge-award.svg %}奨励賞](https://x.com/utokyo_mml/status/2089687652199211254?s=20){: .award-badge} [{% include icons/badge-award.svg %}デモ賞](https://x.com/utokyo_mml/status/2089687652199211254?s=20){: .award-badge}  
 
 中田 琉稀, **花田 佳文**, 林 克彦.  
 複統合的言語 アイヌ語のサブワード分割 〜機械翻訳モデルに最適なトークナイザーとは〜.  
