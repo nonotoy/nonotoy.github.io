@@ -117,6 +117,20 @@ strong {
     background: #8c6417;
     text-decoration: none;
 }
+.content a.edu-link {
+    display: inline-block;
+    vertical-align: -0.15em;
+    margin-left: 2px;
+    opacity: 0.85;
+}
+.content a.edu-link:hover {
+    opacity: 1;
+}
+.content .edu-icon {
+    width: 14px;
+    height: 14px;
+    color: $muted;
+}
 .content .badge-icon {
     width: 0.85em;
     height: 0.85em;

@@ -22,9 +22,11 @@ I am a PhD researcher interested in natural language processing for the Ainu lan
 The University of Tokyo  
 Graduate School of Arts and Sciences  
 Department of Language and Information Sciences  
+HAYASHI Katsuhiko Lab <a class="edu-link" href="https://nlp-hayashi.com/" aria-label="Lab homepage">{% include icons/globe-02.svg %}</a> <a class="edu-link" href="https://x.com/utokyo_mml?s=20" aria-label="Lab X account"><img src="/assets/twitter.svg" alt="X" width="14" height="14"></a>  
 
 **Apr 2022 - Mar 2025**  
-Japan Advanced Institute of Science and Technology   
+Japan Advanced Institute of Science and Technology  
+SHIRAI Kiyoaki Lab <a class="edu-link" href="https://www.jaist.ac.jp/nlp/lab/" aria-label="Lab homepage">{% include icons/globe-02.svg %}</a>  
 **Degree:** MSc in Information Science  
 
 **Apr 2009 - Mar 2013**  
@@ -36,7 +38,7 @@ Technische Universität Berlin
 Austauschsemester SS 2011 & WS 2011/12  
 
 ## {% include icons/file-02.svg %} Publications
-### Conferences & workshops
+### Conferences & workshops (Domestic)
 
 **花田 佳文**, 中田 琉稀, 林 克彦.  
 アイヌ語に対する音声合成モデルの学習と評価.  
@@ -50,7 +52,7 @@ Austauschsemester SS 2011 & WS 2011/12
 情報処理学会 第208回HCI・第72回EC合同研究発表会. Jun 2024.  
 [{% include icons/badge-paper.svg %}paper](https://ipsj.ixsq.nii.ac.jp/records/234448){: .paper-badge}
 
-### Symposia
+### Symposias (Domestic)
 
 **花田 佳文**, 中田 琉稀, 林 克彦.  
 北海道アイヌ語に対する音声合成モデルの学習と評価.  
@@ -73,7 +75,7 @@ Austauschsemester SS 2011 & WS 2011/12
 
 ## {% include icons/award-01.svg %} Awards
 
-Aug 2026. 第21回言語処理若手シンポジウム (YANS2026) 奨励賞・デモ賞
+Aug 2026. 第21回言語処理若手シンポジウム (YANS2026). 奨励賞・デモ賞
 
 ## {% include icons/translate-01.svg %} Languages
 - {:.li-flag} <img class="flag-icon" src="/assets/japan-flag.svg" alt="Japanese flag"> Japanese: native
