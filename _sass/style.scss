@@ -86,7 +86,8 @@ strong {
     border-bottom: 1px solid $border;
 }
 .content a.paper-badge,
-.content a.poster-badge {
+.content a.poster-badge,
+.content .award-badge {
     display: inline-block;
     padding: 1px 10px;
     border-radius: 5px;
@@ -108,6 +109,9 @@ strong {
 .content a.poster-badge:hover {
     background: #264c66;
     text-decoration: none;
+}
+.content .award-badge {
+    background: #a8791c;
 }
 .content .badge-icon {
     width: 0.85em;
