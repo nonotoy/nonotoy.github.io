@@ -52,7 +52,7 @@ Austauschsemester SS 2011 & WS 2011/12
 情報処理学会 第208回HCI・第72回EC合同研究発表会. Jun 2024.  
 [{% include icons/badge-paper.svg %}paper](https://ipsj.ixsq.nii.ac.jp/records/234448){: .paper-badge}
 
-### Symposias (Domestic)
+### Symposia (Domestic)
 
 **花田 佳文**, 中田 琉稀, 林 克彦.  
 北海道アイヌ語に対する音声合成モデルの学習と評価.  
