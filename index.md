@@ -76,6 +76,13 @@ Aug 2026.
 Mar 2025.  
 [{% include icons/badge-paper.svg %}paper](https://dspace02.jaist.ac.jp/dspace/handle/10119/19839){: .paper-badge}
 
+## {% include icons/award-01.svg %} Awards
+
+奨励賞・デモ賞.  
+北海道アイヌ語に対する音声合成モデルの学習と評価.  
+第21回言語処理若手シンポジウム (YANS2026).  
+Aug 2026.  
+
 ## {% include icons/translate-01.svg %} Languages
 - {:.li-flag} <img class="flag-icon" src="/assets/japan-flag.svg" alt="Japanese flag"> Japanese: native
 - {:.li-flag} <img class="flag-icon" src="/assets/england-flag.svg" alt="England flag"> English: C1
