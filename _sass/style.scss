@@ -85,7 +85,8 @@ strong {
     padding-bottom: 0.3em;
     border-bottom: 1px solid $border;
 }
-.content a.paper-badge {
+.content a.paper-badge,
+.content a.poster-badge {
     display: inline-block;
     padding: 1px 10px;
     border-radius: 5px;
@@ -100,6 +101,19 @@ strong {
 .content a.paper-badge:hover {
     background: #26663f;
     text-decoration: none;
+}
+.content a.poster-badge {
+    background: #2f5d7d;
+}
+.content a.poster-badge:hover {
+    background: #264c66;
+    text-decoration: none;
+}
+.content .badge-icon {
+    width: 0.85em;
+    height: 0.85em;
+    vertical-align: -0.1em;
+    margin-right: 0.35em;
 }
 .content h3 {
     font-size: 1rem;

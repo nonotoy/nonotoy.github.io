@@ -43,14 +43,14 @@ Austauschsemester SS 2011 & WS 2011/12
 <!-- (_Training and Evaluation of Speech Synthesis Models for the Ainu Language_) -->
 情報処理学会 第142回人文科学とコンピュータ研究発表会.  
 Aug 2026.  
-[paper](/){: .paper-badge}  
+[{% include icons/badge-paper.svg %}paper](/){: .paper-badge}  
 
 **花田 佳文**, 吉高 淳夫.  
 手掌長導入による日本手話指文字の判別モデルの性能向上の検討.  
 <!-- (_Improving Fingerspelling Recognition in Japanese Sign Language by Incorporating Palm Length_) -->
 情報処理学会 第208回HCI・第72回EC合同研究発表会.  
 Jun 2024.  
-[paper](https://ipsj.ixsq.nii.ac.jp/records/234448){: .paper-badge}
+[{% include icons/badge-paper.svg %}paper](https://ipsj.ixsq.nii.ac.jp/records/234448){: .paper-badge}
 
 ### Symposia
 
@@ -59,6 +59,7 @@ Jun 2024.
  <!-- (_Training and Evaluation of Speech Synthesis Models for Hokkaido Ainu_) -->
 第21回言語処理若手シンポジウム (YANS2026).  
 Aug 2026.  
+[{% include icons/badge-poster.svg %}poster](/assets/posters/yans2026_hanada_poster.pdf){: .poster-badge}  
 
 中田 琉稀, **花田 佳文**, 林 克彦.  
 複統合的言語 アイヌ語のサブワード分割 〜機械翻訳モデルに最適なトークナイザーとは〜.  
@@ -73,7 +74,7 @@ Aug 2026.
  <!-- (_Neural Machine Translation for Low-Resource Languages Based on Iterative Data Augmentation of Source and Target Languages_)  -->
 北陸先端科学技術大学院大学 博士前期課程請求論文.  
 Mar 2025.  
-[paper](https://dspace02.jaist.ac.jp/dspace/handle/10119/19839){: .paper-badge}
+[{% include icons/badge-paper.svg %}paper](https://dspace02.jaist.ac.jp/dspace/handle/10119/19839){: .paper-badge}
 
 ## {% include icons/translate-01.svg %} Languages
 - {:.li-flag} <img class="flag-icon" src="/assets/japan-flag.svg" alt="Japanese flag"> Japanese: native
