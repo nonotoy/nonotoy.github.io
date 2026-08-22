@@ -6,7 +6,7 @@ $accent: #2563eb;
 $text: #1f2328;
 $muted: #6b7280;
 $border: #e5e7eb;
-$max-width: 800px;
+$max-width: 900px;
 
 /* Base */
 
@@ -49,7 +49,7 @@ strong {
     padding-top: 48px;
     padding-bottom: 26px;
     background: url("/assets/ayus-divider.svg") no-repeat bottom 4px center;
-    background-size: calc(100% - 40px) auto;
+    background-size: min(900px, calc(100% - 40px)) auto;
 }
 #author-name {
     font-size: 1.5rem;
@@ -211,7 +211,7 @@ strong {
     padding-top: 21px;
     padding-bottom: 24px;
     background: url("/assets/ayus-divider.svg") no-repeat top 2px center;
-    background-size: calc(100% - 40px) auto;
+    background-size: min(900px, calc(100% - 40px)) auto;
     color: $muted;
     font-size: 0.85rem;
     text-align: center;
