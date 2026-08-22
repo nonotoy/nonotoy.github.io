@@ -58,7 +58,7 @@ Austauschsemester SS 2011 & WS 2011/12
 北海道アイヌ語に対する音声合成モデルの学習と評価.  
  <!-- (_Training and Evaluation of Speech Synthesis Models for Hokkaido Ainu_) -->
 第21回言語処理若手シンポジウム (YANS2026). Aug 2026.
-[{% include icons/badge-poster.svg %}poster](/assets/posters/yans2026_hanada_poster.pdf){: .poster-badge} 　
+[{% include icons/badge-poster.svg %}poster](/assets/posters/yans2026_hanada_poster.pdf){: .poster-badge}  
 [{% include icons/badge-award.svg %}奨励賞](https://yans.anlp.jp/entry/award#%E5%A5%A8%E5%8A%B1%E8%B3%9E-%E5%AF%BE%E8%B1%A1231%E4%BB%B6%E4%B8%AD22%E4%BB%B6){: .award-badge} [{% include icons/badge-award.svg %}デモ賞](https://yans.anlp.jp/entry/award#%E3%83%87%E3%83%A2%E8%B3%9E-%E5%AF%BE%E8%B1%A123%E4%BB%B6%E4%B8%AD2%E4%BB%B6){: .award-badge}  
 
 中田 琉稀, **花田 佳文**, 林 克彦.  
