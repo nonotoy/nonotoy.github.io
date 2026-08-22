@@ -90,6 +90,8 @@ strong {
 .content .award-badge {
     display: inline-block;
     vertical-align: middle;
+    position: relative;
+    top: -0.15em;
     padding: 1px 10px;
     border-radius: 5px;
     background: #2f7d4f;
@@ -112,10 +114,16 @@ strong {
     text-decoration: none;
 }
 .content .award-badge {
-    background: #a8791c;
+    background: #ffffff;
+    border: 1px solid #f5c2cb;
+    color: $text;
+    padding: 0 9px;
+}
+.content .award-badge .badge-icon {
+    color: #d63a4f;
 }
 .content a.award-badge:hover {
-    background: #8c6417;
+    background: #fff5f6;
     text-decoration: none;
 }
 .content a.edu-link {
