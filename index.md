@@ -19,22 +19,21 @@ I am a PhD researcher interested in natural language processing for the Ainu lan
 
 ## {% include icons/graduation-hat-01.svg %} Education  
 **Apr 2026 - current**  
-The University of Tokyo  
-Graduate School of Arts and Sciences  
-Department of Language and Information Sciences  
-HAYASHI Katsuhiko Lab <a class="edu-link" href="https://nlp-hayashi.com/" aria-label="Lab homepage">{% include icons/globe-02.svg %}</a> <a class="edu-link" href="https://x.com/utokyo_mml?s=20" aria-label="Lab X account"><img src="/assets/twitter.svg" alt="X" width="14" height="14"></a>  
+Dept. of Language and Information Sciences, Graduate School of Arts and Sciences, The University of Tokyo, Japan  
+(Supervisor: Assoc. Prof. Dr. HAYASHI Katsuhiko <a class="edu-link" href="https://nlp-hayashi.com/" aria-label="Lab homepage">{% include icons/globe-02.svg %}</a> <a class="edu-link" href="https://x.com/utokyo_mml?s=20" aria-label="Lab X account"><img src="/assets/twitter.svg" alt="X" width="14" height="14"></a> )  
 
 **Apr 2022 - Mar 2025**  
-Japan Advanced Institute of Science and Technology  
-SHIRAI Kiyoaki Lab <a class="edu-link" href="https://www.jaist.ac.jp/nlp/lab/" aria-label="Lab homepage">{% include icons/globe-02.svg %}</a>  
-**Degree:** MSc in Information Science  
+MSc in Information Science  
+Dept. of Advanced Science and Technology, Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology, Japan  
+(Supervisor: Assoc. Prof. Dr. SHIRAI Kiyoaki <a class="edu-link" href="https://www.jaist.ac.jp/nlp/lab/" aria-label="Lab homepage">{% include icons/globe-02.svg %}</a> )  
 
 **Apr 2009 - Mar 2013**  
-Sophia University  
-**Degree:** BA in Foreign Studies  
+BA in Foreign Studies  
+Faculty of Foreign Studies, Sophia University, Japan  
+(Supervisor: Prof. Dr. KIMURA Goro Christoph)  
 
 **Mar 2011 - Feb 2012**  
-Technische Universität Berlin  
+Faculty I - Humanities and Educational Sciences, Technische Universität Berlin  
 Austauschsemester SS 2011 & WS 2011/12  
 
 ## {% include icons/file-02.svg %} Publications
