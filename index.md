@@ -44,7 +44,7 @@ Austauschsemester SS 2011 & WS 2011/12
 アイヌ語に対する音声合成モデルの学習と評価.  
 <!-- (_Training and Evaluation of Speech Synthesis Models for the Ainu Language_) -->
 情報処理学会 第142回人文科学とコンピュータ研究発表会. Aug 2026.  
-[{% include icons/badge-paper.svg %}paper](/){: .paper-badge}  
+[{% include icons/badge-paper.svg %}paper](https://ipsj.ixsq.nii.ac.jp/records/2011104){: .paper-badge}  
 
 **花田 佳文**, 吉高 淳夫.  
 手掌長導入による日本手話指文字の判別モデルの性能向上の検討.  
