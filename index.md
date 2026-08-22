@@ -43,13 +43,13 @@ Austauschsemester SS 2011 & WS 2011/12
 **花田 佳文**, 中田 琉稀, 林 克彦.  
 アイヌ語に対する音声合成モデルの学習と評価.  
 <!-- (_Training and Evaluation of Speech Synthesis Models for the Ainu Language_) -->
-情報処理学会 第142回人文科学とコンピュータ研究発表会. Aug 2026.  
+情報処理学会 第142回人文科学とコンピュータ研究発表会. Aug 2026.
 [{% include icons/badge-paper.svg %}paper](https://ipsj.ixsq.nii.ac.jp/records/2011104){: .paper-badge}  
 
 **花田 佳文**, 吉高 淳夫.  
 手掌長導入による日本手話指文字の判別モデルの性能向上の検討.  
 <!-- (_Improving Fingerspelling Recognition in Japanese Sign Language by Incorporating Palm Length_) -->
-情報処理学会 第208回HCI・第72回EC合同研究発表会. Jun 2024.  
+情報処理学会 第208回HCI・第72回EC合同研究発表会. Jun 2024.
 [{% include icons/badge-paper.svg %}paper](https://ipsj.ixsq.nii.ac.jp/records/234448){: .paper-badge}
 
 ### Symposia (Domestic)
@@ -57,7 +57,7 @@ Austauschsemester SS 2011 & WS 2011/12
 **花田 佳文**, 中田 琉稀, 林 克彦.  
 北海道アイヌ語に対する音声合成モデルの学習と評価.  
  <!-- (_Training and Evaluation of Speech Synthesis Models for Hokkaido Ainu_) -->
-第21回言語処理若手シンポジウム (YANS2026). Aug 2026.  
+第21回言語処理若手シンポジウム (YANS2026). Aug 2026.
 [{% include icons/badge-poster.svg %}poster](/assets/posters/yans2026_hanada_poster.pdf){: .poster-badge} [{% include icons/badge-award.svg %}奨励賞](https://yans.anlp.jp/entry/award#%E5%A5%A8%E5%8A%B1%E8%B3%9E-%E5%AF%BE%E8%B1%A1231%E4%BB%B6%E4%B8%AD22%E4%BB%B6){: .award-badge} [{% include icons/badge-award.svg %}デモ賞](https://yans.anlp.jp/entry/award#%E3%83%87%E3%83%A2%E8%B3%9E-%E5%AF%BE%E8%B1%A123%E4%BB%B6%E4%B8%AD2%E4%BB%B6){: .award-badge}  
 
 中田 琉稀, **花田 佳文**, 林 克彦.  
@@ -68,9 +68,9 @@ Austauschsemester SS 2011 & WS 2011/12
 ### Theses
 
 **花田 佳文**.  
-原言語と目標言語の反復的データ拡張に基づく低資源言語のニューラル機械翻訳.
+原言語と目標言語の反復的データ拡張に基づく低資源言語のニューラル機械翻訳.  
  <!-- (_Neural Machine Translation for Low-Resource Languages Based on Iterative Data Augmentation of Source and Target Languages_)  -->
-北陸先端科学技術大学院大学 博士前期課程請求論文. Mar 2025.  
+北陸先端科学技術大学院大学 博士前期課程請求論文. Mar 2025.
 [{% include icons/badge-paper.svg %}paper](https://dspace02.jaist.ac.jp/dspace/handle/10119/19839){: .paper-badge}
 
 ## {% include icons/award-01.svg %} Awards
