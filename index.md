@@ -84,3 +84,6 @@ Aug 2026. 第21回言語処理若手シンポジウム (YANS2026). 奨励賞・�
 - {:.li-flag} <img class="flag-icon" src="/assets/ainu-flag.svg" alt="Ainu flag"> Ainu: B1-B2
 - {:.li-flag} <img class="flag-icon" src="/assets/taiwan-flag.svg" alt="Taiwanese flag"> Taiwanese Mandarin: B1
 - {:.li-flag} <img class="flag-icon" src="/assets/spain-flag.svg" alt="Spanish flag"> Spanish: A2
+
+## {% include icons/palette.svg %} Portfolio
+- [Website of Dept. of Language and Information Sciences, The University of Tokyo](https://gamp.c.u-tokyo.ac.jp/) (site redesign, Sep 2026)
