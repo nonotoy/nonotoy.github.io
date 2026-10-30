@@ -20,7 +20,7 @@ I am a PhD researcher interested in natural language processing for the Ainu lan
 ## {% include icons/graduation-hat-01.svg %} Education  
 **Apr 2026 - current**  
 Dept. of Language and Information Sciences, Graduate School of Arts and Sciences, The University of Tokyo, Japan  
-(Supervisor: Assoc. Prof. Dr. HAYASHI Katsuhiko <a class="edu-link" href="https://nlp-hayashi.com/" aria-label="Lab homepage">{% include icons/globe-02.svg %}</a> <a class="edu-link" href="https://x.com/utokyo_mml?s=20" aria-label="Lab X account"><img src="/assets/twitter.svg" alt="X" width="14" height="14"></a> )  
+(Supervisor: Assoc. Prof. Dr. HAYASHI Katsuhiko <a class="edu-link" href="https://nlp-hayashi.com/" aria-label="Lab homepage">{% include icons/globe-02.svg %}</a> <a class="edu-link" href="https://x.com/utokyo_mml" aria-label="Lab X account"><img src="/assets/twitter.svg" alt="X" width="14" height="14"></a> )  
 
 **Apr 2022 - Mar 2025**  
 MSc in Information Science  
@@ -35,6 +35,23 @@ Faculty of Foreign Studies, Sophia University, Japan
 **Mar 2011 - Feb 2012**  
 Faculty I - Humanities and Educational Sciences, Technische Universität Berlin  
 Austauschsemester SS 2011 & WS 2011/12  
+
+## {% include icons/briefcase-01.svg %} Work Experience  
+**Nov 2024 - current**  
+ELYZA, Inc., Tokyo, Japan  
+Solutions Division  
+
+**Jul 2019 - Oct 2024**  
+PwC Tax Japan, Tokyo, Japan  
+Tax Technology & Transformation  
+
+**Aug 2016 - Jun 2019**  
+PwC Outsourcing Services LLC, Tokyo, Japan  
+Client Administration Services  
+
+**Apr 2013 - Jul 2016**  
+NGK SPARK PLUG CO., LTD., Nagoya, Japan  
+Global HR  
 
 ## {% include icons/file-02.svg %} Publications
 ### Conferences & workshops (Domestic)
