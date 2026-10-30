@@ -51,7 +51,7 @@ Client Administration Services
 
 **Apr 2013 - Jul 2016**  
 NGK SPARK PLUG CO., LTD., Nagoya, Japan  
-Global HR  
+Human Resources  
 
 ## {% include icons/file-02.svg %} Publications
 ### Conferences & workshops (Domestic)
