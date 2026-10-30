@@ -52,13 +52,13 @@ NGK SPARK PLUG CO., LTD. - Human Resources
 ## {% include icons/file-02.svg %} Publications
 ### Conferences & workshops (Domestic)
 
-**花田 佳文**, 中田 琉稀, 林 克彦.  
+**花田 佳文**, 中田 琉稀, 林 克彦. (**Yoshifumi HANADA**, Ryuki NAKATA, Katsuhiko HAYASHI)  
 アイヌ語に対する音声合成モデルの学習と評価.  
 (_Training and Evaluation of Speech Synthesis Models for the Ainu Language_)  
 情報処理学会 第142回人文科学とコンピュータ研究発表会. Aug 2026.
 [{% include icons/badge-paper.svg %}paper](https://ipsj.ixsq.nii.ac.jp/records/2011104){: .paper-badge}  
 
-**花田 佳文**, 吉高 淳夫.  
+**花田 佳文**, 吉高 淳夫. (**Yoshifumi HANADA**, Atsuo YOSHITAKA)  
 手掌長導入による日本手話指文字の判別モデルの性能向上の検討.  
 (_Improving Fingerspelling Recognition in Japanese Sign Language by Incorporating Palm Length_)  
 情報処理学会 第208回HCI・第72回EC合同研究発表会. Jun 2024.
@@ -66,21 +66,21 @@ NGK SPARK PLUG CO., LTD. - Human Resources
 
 ### Symposia (Domestic)
 
-**花田 佳文**, 中田 琉稀, 林 克彦.  
+**花田 佳文**, 中田 琉稀, 林 克彦. (**Yoshifumi HANADA**, Ryuki NAKATA, Katsuhiko HAYASHI)  
 北海道アイヌ語に対する音声合成モデルの学習と評価.  
 (_Training and Evaluation of Speech Synthesis Models for Hokkaido Ainu_)  
 第21回言語処理若手シンポジウム (YANS2026). Aug 2026.
 [{% include icons/badge-poster.svg %}poster](/assets/posters/yans2026_hanada_poster.pdf){: .poster-badge}  
 [{% include icons/badge-award.svg %}奨励賞](https://yans.anlp.jp/entry/award#%E5%A5%A8%E5%8A%B1%E8%B3%9E-%E5%AF%BE%E8%B1%A1231%E4%BB%B6%E4%B8%AD22%E4%BB%B6){: .award-badge} [{% include icons/badge-award.svg %}デモ賞](https://yans.anlp.jp/entry/award#%E3%83%87%E3%83%A2%E8%B3%9E-%E5%AF%BE%E8%B1%A123%E4%BB%B6%E4%B8%AD2%E4%BB%B6){: .award-badge}  
 
-中田 琉稀, **花田 佳文**, 林 克彦.  
+中田 琉稀, **花田 佳文**, 林 克彦. (Ryuki NAKATA, **Yoshifumi HANADA**, Katsuhiko HAYASHI)  
 複統合的言語 アイヌ語のサブワード分割 〜機械翻訳モデルに最適なトークナイザーとは〜.  
 (_Subword Segmentation for Ainu, a Polysynthetic Language: In Search of the Optimal Tokenizer for Machine Translation_)  
 第21回言語処理若手シンポジウム (YANS2026). Aug 2026.  
 
 ### Theses
 
-**花田 佳文**.  
+**花田 佳文**. (**Yoshifumi HANADA**)  
 原言語と目標言語の反復的データ拡張に基づく低資源言語のニューラル機械翻訳.  
 (_Neural Machine Translation for Low-Resource Languages Based on Iterative Data Augmentation of Source and Target Languages_)  
 北陸先端科学技術大学院大学 博士前期課程請求論文. Mar 2025.
