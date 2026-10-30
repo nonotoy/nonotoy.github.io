@@ -43,7 +43,7 @@ Solutions Division
 
 **Jul 2019 - Oct 2024**  
 PwC Tax Japan, Tokyo, Japan  
-Tax Technology & Transformation  
+Tax Reporting Strategy  
 
 **Aug 2016 - Jun 2019**  
 PwC Outsourcing Services LLC, Tokyo, Japan  
