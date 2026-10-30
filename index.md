@@ -38,20 +38,16 @@ Austauschsemester SS 2011 & WS 2011/12
 
 ## {% include icons/briefcase-01.svg %} Work Experience  
 **Nov 2024 - current**  
-ELYZA, Inc., Tokyo, Japan  
-Solutions Division  
+ELYZA, Inc. - Solutions Division  
 
 **Jul 2019 - Oct 2024**  
-PwC Tax Japan, Tokyo, Japan  
-Tax Reporting Strategy  
+PwC Tax Japan - Tax Reporting Strategy  
 
 **Aug 2016 - Jun 2019**  
-PwC Outsourcing Services LLC, Tokyo, Japan  
-Client Administration Services  
+PwC Outsourcing Services LLC - Client Administration Services  
 
 **Apr 2013 - Jul 2016**  
-NGK SPARK PLUG CO., LTD., Nagoya, Japan  
-Human Resources  
+NGK SPARK PLUG CO., LTD. - Human Resources  
 
 ## {% include icons/file-02.svg %} Publications
 ### Conferences & workshops (Domestic)
